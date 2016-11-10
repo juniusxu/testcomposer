@@ -4,6 +4,6 @@
     "homepage": "https://github.com/xujunabc999/testcomposer",
     "require": {
         "php": "^5.3.3 || ^7.0",
-        "another-vendor/package": "1.*"
+        "another-vendor/package": "0.*"
     }
 }
