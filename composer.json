@@ -1,0 +1,16 @@
+{
+    "name": "testcomposer/testcomposer",
+    "description": "testcomposer github",
+    "homepage": "https://github.com/xujunabc999/testcomposer",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+        "another-vendor/package": "1.*"
+    },
+    "authors": [
+      {
+        "name": "xujunabc999",
+        "email": "xuj@syyz.com",
+        "role": "Developer"
+      }
+    ],
+}
