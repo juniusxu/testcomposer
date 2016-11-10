@@ -6,10 +6,4 @@
         "php": "^5.3.3 || ^7.0",
         "another-vendor/package": "1.*"
     },
-    "authors": 
-      {
-        "name": "xujunabc999",
-        "email": "xuj@syyz.com",
-        "role": "Developer",
-      }
 }
